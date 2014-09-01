@@ -5,3 +5,5 @@ drwxr-xr-x 60 jon jon 4096 Aug 31 21:29 ..
 drwxrwxr-x  7 jon jon 4096 Aug 31 21:35 .git
 total 4
 -rw-rw-r-- 1 jon jon 187 Sep  1 01:05 dir.txt
+total 4
+-rw-rw-r-- 1 jon jon 241 Sep  1 01:08 dir.txt
